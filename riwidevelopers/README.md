@@ -1,4 +1,5 @@
 # riwidevelopers
+###Entar hasta la carpeta latest y ahí ejecutar el proyecto
 
 ## Project setup
 ```
@@ -19,6 +20,7 @@ npm run build
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
