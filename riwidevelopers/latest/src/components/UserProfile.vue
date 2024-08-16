@@ -93,7 +93,6 @@
   const teams = 'Backend Developer (126 Members), VueJS Developer (98 Members)';
   const photo = './assets/IMAGENANA.png';
   const bannerImage = './assets/banner.png';
-  
   const activeTab = ref('profile');
   
   </script>
